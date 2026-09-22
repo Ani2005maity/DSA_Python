@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ani2005maity/DSA_Python/tree/master/0006-zigzag-conversion) |
 | [0187-repeated-dna-sequences](https://github.com/Ani2005maity/DSA_Python/tree/master/0187-repeated-dna-sequences) |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
 ## Simulation
