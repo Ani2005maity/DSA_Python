@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ani2005maity/DSA_Python/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ani2005maity/DSA_Python/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ani2005maity/DSA_Python/tree/master/0187-repeated-dna-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
