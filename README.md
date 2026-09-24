@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ani2005maity/DSA_Python/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ani2005maity/DSA_Python/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ani2005maity/DSA_Python/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ani2005maity/DSA_Python/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ani2005maity/DSA_Python/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
