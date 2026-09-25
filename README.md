@@ -26,6 +26,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ani2005maity/DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/Ani2005maity/DSA_Python/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ani2005maity/DSA_Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Ani2005maity/DSA_Python/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -36,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Ani2005maity/DSA_Python/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ani2005maity/DSA_Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -90,4 +92,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ani2005maity/DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/Ani2005maity/DSA_Python/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
