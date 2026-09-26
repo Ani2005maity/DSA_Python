@@ -32,6 +32,7 @@
 | [0905-sort-array-by-parity](https://github.com/Ani2005maity/DSA_Python/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ani2005maity/DSA_Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Ani2005maity/DSA_Python/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Ani2005maity/DSA_Python/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Ani2005maity/DSA_Python/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
