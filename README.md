@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/Ani2005maity/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-sort-array-by-parity](https://github.com/Ani2005maity/DSA_Python/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ani2005maity/DSA_Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Ani2005maity/DSA_Python/tree/master/1480-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/DSA_Python/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
