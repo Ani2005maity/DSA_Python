@@ -20,12 +20,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ani2005maity/DSA_Python/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ani2005maity/DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/DSA_Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ani2005maity/DSA_Python/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -111,5 +113,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ani2005maity/DSA_Python/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Ani2005maity/DSA_Python/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
