@@ -22,6 +22,7 @@
 | [0344-reverse-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Ani2005maity/DSA_Python/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -123,4 +124,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ani2005maity/DSA_Python/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Ani2005maity/DSA_Python/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
