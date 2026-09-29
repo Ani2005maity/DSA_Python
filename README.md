@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ani2005maity/DSA_Python/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Ani2005maity/DSA_Python/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ani2005maity/DSA_Python/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ani2005maity/DSA_Python/tree/master/0326-power-of-three) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ani2005maity/DSA_Python/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Ani2005maity/DSA_Python/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Ani2005maity/DSA_Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ani2005maity/DSA_Python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0151-reverse-words-in-a-string) |
@@ -44,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ani2005maity/DSA_Python/tree/master/0012-integer-to-roman) |
 | [0187-repeated-dna-sequences](https://github.com/Ani2005maity/DSA_Python/tree/master/0187-repeated-dna-sequences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ani2005maity/DSA_Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
