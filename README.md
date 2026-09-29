@@ -132,4 +132,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
