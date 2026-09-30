@@ -20,6 +20,7 @@
 | [0012-integer-to-roman](https://github.com/Ani2005maity/DSA_Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ani2005maity/DSA_Python/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Ani2005maity/DSA_Python/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/Ani2005maity/DSA_Python/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ani2005maity/DSA_Python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Ani2005maity/DSA_Python/tree/master/0187-repeated-dna-sequences) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/DSA_Python/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/Ani2005maity/DSA_Python/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
