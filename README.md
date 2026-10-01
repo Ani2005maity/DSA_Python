@@ -19,6 +19,7 @@
 | [0006-zigzag-conversion](https://github.com/Ani2005maity/DSA_Python/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Ani2005maity/DSA_Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ani2005maity/DSA_Python/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Ani2005maity/DSA_Python/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ani2005maity/DSA_Python/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Ani2005maity/DSA_Python/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ani2005maity/DSA_Python/tree/master/0125-valid-palindrome) |
