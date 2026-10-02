@@ -19,6 +19,7 @@
 | [0006-zigzag-conversion](https://github.com/Ani2005maity/DSA_Python/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Ani2005maity/DSA_Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ani2005maity/DSA_Python/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ani2005maity/DSA_Python/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ani2005maity/DSA_Python/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Ani2005maity/DSA_Python/tree/master/0091-decode-ways) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Ani2005maity/DSA_Python/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/DSA_Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -140,9 +142,14 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0092-reverse-linked-list-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
