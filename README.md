@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ani2005maity/DSA_Python/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ani2005maity/DSA_Python/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ani2005maity/DSA_Python/tree/master/1688-count-of-matches-in-tournament) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ani2005maity/DSA_Python/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ani2005maity/DSA_Python/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ani2005maity/DSA_Python/tree/master/1688-count-of-matches-in-tournament) |
 ## Array
 |  |
 | ------- |
