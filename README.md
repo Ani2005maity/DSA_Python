@@ -30,6 +30,7 @@
 | [0344-reverse-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ani2005maity/DSA_Python/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ani2005maity/DSA_Python/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Ani2005maity/DSA_Python/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -135,6 +136,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ani2005maity/DSA_Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ani2005maity/DSA_Python/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
@@ -144,12 +146,14 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ani2005maity/DSA_Python/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ani2005maity/DSA_Python/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ani2005maity/DSA_Python/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ani2005maity/DSA_Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
